@@ -5,7 +5,7 @@ Use the template I've provided in `code.js`. Test your new function; I've
 provided some basic testing code that uses
 [jsverify](https://jsverify.github.io/) in `code.test.js`.
 
-Hint: To make merge sort in-place, think about what happens during the merge --
+Hint: To make merge sort in-place, think about what happens during the merge -- 
 where are elements moved to and from? To make it iterative, think about the
 part of the array each recursive call considers.
 
